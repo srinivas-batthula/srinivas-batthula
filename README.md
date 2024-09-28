@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Srinivas Batthula</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+  <p align="centre">
 -   <img src="10-100721_email-red-stick-french-red-email-icon-png.png" alt="Email" height="30" width="40" /> **srinivasbatthula05.official@gmail.com** 
-
+  </p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srinivas-batthula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-batthula" height="30" width="40" /></a>
