@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinivas Batthula</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 📫 How to reach me **srinivasbatthula05.official@gmail.com**
+-   <img src="image.png" alt="Email" height="30" width="40" /> **srinivasbatthula05.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
