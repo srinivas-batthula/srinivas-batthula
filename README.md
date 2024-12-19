@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srinivas Batthula</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🔭 I’m currently working on **Full-stack Webdevelopment**
+
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate with **Full-Stack developers**
 
