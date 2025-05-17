@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/srinivas-batthula/](https://github.com/srinivas-batthula/)
 
-- 💬 Ask me about **Frontend(HTML,CSS,JS,REACT), Backend(NodeJs,Express,FastAPI), Database(MongoDB)**
+- 💬 Ask me about **Frontend(HTML, CSS, JS, React.js, Next.js), Backend(NodeJs, Express.js, FastAPI), Databases(MongoDB), PWA web-apps**
 
 - 📫 Reach me **srinivasbatthula05.official@gmail.com**
 
