@@ -45,6 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-batthula&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=srinivas-batthula&show_icons=true&locale=en&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-batthula&" alt="GitHub Streak" />
 </p>
 
 ### 📅 GitHub Contributions Calendar
