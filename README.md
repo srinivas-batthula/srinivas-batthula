@@ -22,8 +22,10 @@
 #### 🌐 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug,mongoose,playwright,socketio" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" alt="Socket.IO"/>
 </p>
 
 #### 🗃 Databases
