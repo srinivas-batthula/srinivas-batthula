@@ -22,7 +22,7 @@
 #### 🌐 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug,mongoose" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug,mongoose, playwright,socketio" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 #### 🚀 DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
   </a>
 </p>
 
