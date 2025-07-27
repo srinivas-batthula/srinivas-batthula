@@ -22,7 +22,7 @@
 #### 🌐 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug,mongoose, playwright,socketio" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug,mongoose,playwright,socketio" />
   </a>
 </p>
 
