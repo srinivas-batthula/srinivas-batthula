@@ -24,9 +24,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug,redis" />
   </a>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/logo-black-text.svg" alt="Zustand" width="40"/>
-<img src="https://img.icons8.com/color/48/progressive-web-app.png" width="40" alt="PWA" />
-<img src="https://jwt.io/img/pic_logo.svg" width="40" alt="JWT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" alt="Socket.IO"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt="Jest" />
