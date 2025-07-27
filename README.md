@@ -24,8 +24,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug" />
   </a>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/>
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Socket.io_white.svg" width="40" alt="Socket.IO" />
+  
+  <svg width="40" height="40" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <g fill="white">
+    <path d="M128 0C57.308 0 0 57.308 0 128s57.308 128 128 128 128-57.308 128-128S198.692 0 128 0zm44.579 163.354l-61.392 33.77c-3.404 1.872-7.356-1.494-5.922-5.077l24.36-60.28a3.313 3.313 0 00-1.548-4.212l-60.57-31.61c-3.432-1.792-2.425-6.9 1.478-7.352l61.328-7.252a3.325 3.325 0 002.776-2.202l21.706-58.95c1.4-3.798 6.78-3.578 7.736.32l14.942 61.18c.423 1.732 1.908 3.01 3.684 3.205l63.95 7.162c4.01.45 5.16 5.78 1.64 7.65l-56.002 28.6a3.321 3.321 0 00-1.64 4.17l23.58 56.83c1.538 3.706-2.574 7.11-5.776 5.012z"/>
+  </g>
+</svg>
 </p>
 
 #### 🗃 Databases
