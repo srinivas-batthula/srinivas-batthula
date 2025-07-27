@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pug" />
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" alt="Socket.IO" style="color:white; background-color:white;"/>
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Socket.io_white.svg" width="40" alt="Socket.IO" />
 </p>
 
 #### 🗃 Databases
