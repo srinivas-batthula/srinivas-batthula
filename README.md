@@ -57,13 +57,13 @@ With a strong foundation in **backend architecture** & **API integrations** and 
 
 ### 🚀 Featured Projects
 
-### [CoFlow – Real-Time Team Collaboration](https://github.com/srinivas-batthula/coflow) | [Live](https://coflow.netlify.app)  
-**Stack:** Next.js | Express.js | MongoDB | Socket.IO | Playwright | Redis | Docker  
-**Highlights:** Real-time Chat • Task Workflow • Notifications • Automation(CI/CD) • Collaboration  
+- ### [CoFlow – Real-Time Team Collaboration](https://github.com/srinivas-batthula/coflow) | [Live](https://coflow.netlify.app)  
+	- **Stack:** Next.js | Express.js | MongoDB | Socket.IO | Playwright | Redis | Docker  
+	- **Highlights:** Real-time Chat • Task Workflow • Notifications • Automation(CI/CD) • Collaboration  
 
-### [Verseify – FullStack Blogging Platform](https://github.com/srinivas-batthula/verseify) | [Live](https://verseify.netlify.app)  
-**Stack:** Next.js | Express.js | MongoDB | Razorpay | Web-Push  
-**Highlights:** PWA • AI Writing • Payments • Search • Performance
+- ### [Verseify – FullStack Blogging Platform](https://github.com/srinivas-batthula/verseify) | [Live](https://verseify.netlify.app)  
+	- **Stack:** Next.js | Express.js | MongoDB | Razorpay | Web-Push  
+	- **Highlights:** PWA • AI Writing • Payments • Search • Performance
 
 ---
 
