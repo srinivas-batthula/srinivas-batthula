@@ -49,13 +49,17 @@ With a strong foundation in **backend architecture** & **API integrations** and 
 #### DevOps
 <p align="left" title="Git, GitHub, GitHub-Actions, Docker">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,aws" />
   </a>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
+
+- ### [Snipzen – VSCode Snippet Management](https://github.com/srinivas-batthula/code-snippets-platform) | [Live](https://snipzen.vercel.app/) | [Extension](https://marketplace.visualstudio.com/items?itemName=srinivas-batthula.snipzen)
+	- **Stack:** Next.js | TypeScript | MongoDB | Next-Auth | VSCode-API | GitHub Actions
+	- **Highlights:** One-Click Import/Export • Code Snippets • Environment Snapshots • Cloud Sync • Smart Search • CI/CD Automation
 
 - ### [CoFlow – Real-Time Team Collaboration](https://github.com/srinivas-batthula/coflow) | [Live](https://coflow.netlify.app)  
 	- **Stack:** Next.js | Express.js | MongoDB | Socket.IO | Playwright | Redis | Docker  
