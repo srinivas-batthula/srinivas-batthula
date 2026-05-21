@@ -21,6 +21,10 @@ With a strong foundation in **backend architecture** & **API integrations** and 
 
 ---
 
+📄 **Resume:** [View My Resume](./Srinivas_Resume-2.pdf)
+
+---
+
 ### 🧰 Tech Stack
 
 #### Programming Languages
