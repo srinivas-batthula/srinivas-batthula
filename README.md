@@ -21,7 +21,7 @@ With a strong foundation in **backend architecture** & **API integrations** and 
 
 ---
 
-📄 **Resume:** [View My Resume](./Srinivas_Resume-2.pdf)
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1FZuzoXsad9e4dJ_3UN1VIYHzIScHWQ7E/view?usp=drivesdk)
 
 ---
 
