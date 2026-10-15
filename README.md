@@ -61,6 +61,10 @@ With a strong foundation in **backend architecture** & **API integrations** and 
 
 ### 🚀 Featured Projects
 
+### [MedMemory AI – Patient's Personal Medical Memory](https://github.com/MedMemory-AI/MedMemory) | [Documentation](https://medmemory-ai.github.io/docs/)
+- **Stack:** React Native (Expo) | FastAPI | Python | PostgreSQL (Neon) | Qdrant | Ollama
+- **Highlights:** AI Medical Document Extraction • Personal Health Timeline • RAG-Based Medical History Chat • Semantic Search • Local LLM Integration • Docker & Cloud Deployment
+
 - ### [Snipzen – VSCode Snippet Management](https://github.com/srinivas-batthula/code-snippets-platform) | [Live](https://snipzen.vercel.app/) | [Extension](https://marketplace.visualstudio.com/items?itemName=srinivas-batthula.snipzen)
 	- **Stack:** Next.js | TypeScript | MongoDB | Next-Auth | VSCode-API | GitHub Actions
 	- **Highlights:** One-Click Import/Export • Code Snippets • Environment Snapshots • Cloud Sync • Smart Search • CI/CD Automation
